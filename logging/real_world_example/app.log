@@ -1,0 +1,11 @@
+2025-09-07 09:45:38 - DEBUG - Adding 5 and 3
+2025-09-07 09:45:51 - DEBUG - Adding 5 and 3
+2025-09-07 09:45:51 - DEBUG - Subtracting 4 from 10
+2025-09-07 09:45:51 - DEBUG - Multiplying 2 and 6
+2025-09-07 09:45:51 - ERROR - Division by zero attempted
+2025-09-07 09:45:51 - DEBUG - Dividing 8 by 2
+2025-09-07 09:46:10 - DEBUG - Adding 5 and 3
+2025-09-07 09:46:10 - DEBUG - Subtracting 4 from 10
+2025-09-07 09:46:10 - DEBUG - Multiplying 2 and 6
+2025-09-07 09:46:10 - ERROR - Division by zero attempted
+2025-09-07 09:46:10 - ERROR - Division by zero attempted
